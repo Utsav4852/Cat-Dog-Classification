@@ -1,6 +1,6 @@
 # Cat-Dog-Classification
 
-In this exerceise we have to perform classification with the help of CNN on the Cats-Vs-Dogs dataset. We will also perform preprocessing as we haven't provided with the split dataset. Download dataset from <a href='https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip'>Here</a>. This exercise will gives you basic knowledge of loading the data with image data generator, train the model with created from scratch and with the transfer learning technique.
+In this exerceise I'll to perform classification with the help of CNN on the Cats-Vs-Dogs dataset. We will also perform preprocessing as we haven't provided with the split dataset. Download dataset from <a href='https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_3367a.zip'>Here</a>. This exercise will gives you basic knowledge of loading the data with image data generator, train the model with created from scratch and with the transfer learning technique.
 
 ## Cat-dog-dataset
 This dataset contains total 25k images 12500 for each categories. This dataset is created by microsoft team and available on <a href='https://www.kaggle.com/c/dogs-vs-cats'>Kaggle</a> for competition. 
